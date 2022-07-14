@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariamamusa
+- 👋 Hi, I’m @maryamtajudin
 - 👀 I’m interested in deep learning 
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on FULL STACK
